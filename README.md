@@ -1,6 +1,3 @@
-### ✅ Here's a suggested `README.md` template:
-
-```markdown
 # RahulDev-01
 
 A full-stack **Catering Reservation and Ordering System** designed to handle both **customer reservations** and **online orders**.
